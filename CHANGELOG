@@ -8,6 +8,9 @@ Feature that we are working on:
  - Two Factor Authentication
  - SIEM
 
+v.2.2.0p2-release
+2025.12.22: HOTFIX: Fixed network interfaces wont pull up during auto-boot
+
 v.2.2.0p1-release
 2025.11.30: HOTFIX: Fixed error when vSwitch deleted
 2025.11.30: HOTFIX: Fixed frontend error when fetching data too early on newly created VMs
