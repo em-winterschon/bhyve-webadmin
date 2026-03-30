@@ -8,6 +8,13 @@ Feature that we are working on:
  - Two Factor Authentication
  - SIEM
 
+v.2.2.2-release
+2026.03.30: Updated networking protocols allow faster communications
+2026.03.30: Fixed startup errors when pre or append custom commands erased
+2026.02.13: Fixed whitespaces with command line arguments
+2026.02.13: Added (-P) vmexit on pause flag to hypervisor
+2026.02.12: Added Generate ACPI Tables option and make it default when new VM created
+
 v.2.2.0p2-release
 2025.12.22: HOTFIX: Fixed network interfaces wont pull up during auto-boot
 
